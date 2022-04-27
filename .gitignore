@@ -22,3 +22,8 @@ bin-release/
 
 #Caches
 __pycache__
+
+#Azure
+.ipynb_aml_checkpoints/ 
+*.amltmp 
+*.amltemp
