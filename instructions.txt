@@ -1,0 +1,16 @@
+//*Instructions
+The zip-file is downloaded from Github, and it includes whole repo: https://github.com/htaim/JODA2022 . 
+
+This .zip -file includes one directory 'jodaProject' for Project files. The main notebook 'jodaProject.ipynb' includes executable Jupyter notebook, which can be run on various environments.
+The needed input files and output files are included in .zip-file for easier grading. These are following:
+	ML_model_features.png - picture inside notebook
+	train_data_key_characteristics.png -picture inside notebook
+	raw_data - output from scraping
+	train_data - output after processing data
+The PowerBI visualization is embedded and link provided inside the notebook, and the actual file is also included in this .zip.
+	train_data_visualisation
+
+The learning diary and all necessary input and output files are included in the same .zip-file. 
+*//
+
+
