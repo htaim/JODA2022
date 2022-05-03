@@ -16,6 +16,19 @@
     {
       "cell_type": "markdown",
       "source": [
+        "Information on implementation and other parts of this course's assignments can be found on document. 'instructions.txt'"
+      ],
+      "metadata": {
+        "nteract": {
+          "transient": {
+            "deleting": false
+          }
+        }
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
         "## Collecting data"
       ],
       "metadata": {
@@ -184,19 +197,6 @@
         },
         "gather": {
           "logged": 1650617524798
-        }
-      }
-    },
-    {
-      "cell_type": "markdown",
-      "source": [
-        "## "
-      ],
-      "metadata": {
-        "nteract": {
-          "transient": {
-            "deleting": false
-          }
         }
       }
     },
@@ -783,7 +783,7 @@
     {
       "cell_type": "markdown",
       "source": [
-        "!['Top 4 ML_model_features'](/ML_model_features.png)![](image-URL)"
+        "!['Top 4 ML_model_features'](/ML_model_features.png)!['Key characteristics'](/train_data_key_characteristics.png)"
       ],
       "metadata": {
         "nteract": {
@@ -947,10 +947,10 @@
         {
           "output_type": "stream",
           "name": "stdout",
-          "text": "The predicted price for Audi A6 vm. 2018 66000 km\nis 41296  euros.\n"
+          "text": "The predicted price for Volkswagen Golf vm. 2019 200000 km\nis 20062  euros.\n"
         }
       ],
-      "execution_count": 10,
+      "execution_count": 16,
       "metadata": {
         "jupyter": {
           "source_hidden": false,
@@ -962,7 +962,7 @@
           }
         },
         "gather": {
-          "logged": 1651039624131
+          "logged": 1651045016240
         }
       }
     }
